@@ -4,10 +4,10 @@ Prefix columns and merge Google Spreadsheet for local use. Requires Excel (teste
 Usage
 -----
 
-1) Save Google Spreadsheet as Excel
-2) Open exported file on Excel
-3) Press `Alt`+ `F11`. Goto `Insert > Module` and paste the code bellow and run the `Export` function
-4) Export the created sheet as `tab delimited` or `csv`
+1. Save Google Spreadsheet as Excel
+2. Open exported file on Excel
+3. Press `Alt`+ `F11`. Goto `Insert > Module` and paste the code bellow and run the `Export` function
+4. Export the created sheet as `tab delimited` or `csv`
 
 ```vbnet
 Sub Export()
